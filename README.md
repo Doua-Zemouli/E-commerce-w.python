@@ -8,7 +8,7 @@ In this project we will be working with [this data set](https://www.kaggle.com/d
 
 -Finding highest, lowest and average purchased price  
 -Finding how many people have Engineer in their job titles while making it case insensitive  
--Finding the Email of the person with the following IP address 132.207.160.22 or credit card number 4664825258997302  
+-Finding the Email of the person with a certain IP address or credit card number  
 -How Many people have Mastercard as their credit card provider and made a purchase above 50  
 -How many people purchase during the am and during the pm?  
 -How many people have a credit card that expires in 2020?   
